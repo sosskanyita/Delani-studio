@@ -8,197 +8,74 @@
 }
 
 .row1 h1 {
+    color: white;
     position: relative;
     padding-top: 10%;
     font-weight: bold;
 }
 
 .paragraph1 {
+    color: white;
     font-weight: bold;
     font-family: Signika Negative, sans-serif;
     font-size: 35px;
 }
 
-.row3 {
-    width: 100px;
-    height: 300px;
-    padding: opx 20px;
-    margin-right: -15px;
-    margin-left: -15px;
+.row2 {
     text-align: center;
-    background-size: cover;
 }
 
 .row3 {
-    padding-top: 10%;
+    text-align: center;
+    color: white;
+
+}
+.whatwedo{
+    text-align: center;
 }
 
-.row4 {
-    width: 100px;
-    height: 300px;
-    margin-right: -20px;
-    margin-left: -20px;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    padding: 0px;
+.footer {
+    text-align: center;
 }
 
-.row5 {
-    width: 100px;
-    height: auto;
-    margin-right: -20px;
-    margin-left: -20px;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    padding: 20px;
-    padding-bottom: 30px;
-}
-
-.row6 {
-    width: 100px;
-    height: auto;
-    margin-right: -20px;
-    margin-left: -20px;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    padding: 20px;
-    padding-bottom: 40px;
-}
-
-.row7 {
-    width: 100px;
-    height: 400px;
-    margin-right: -15px;
-    margin-left: -15px;
-    padding: 0px 20px;
+.form-group {
+    background-image: url(/images/assets/backgrounds/c_image.jpg);
     background-size: cover;
+    padding-top: 4%;
+    padding-bottom: 4%;
+
+}
+
+.form-control {
+    border-radius: 10px;
+    background: transparent;
+    border-color: tomato;
+}
+
+.contactUs {
+    text-align: center;
+    color: whitesmoke;
+}
+
+.copyright {
     text-align: center;
 }
 
-.headerMain {
-    position: relative;
-}
-
-.whatWeDo {
-    margin-top: 20px;
-    margin-right: -25px;
-    margin-left: -25px;
-    position: relative;
-}
-
-.whatWeDo h1 {
-    margin: 10px;
-    font-family: Signika Negative,sans-serif;
-    text-align: center;
-}
-
-.whatWeDo img {
-    margin-top: 40px;
-    height: 100px;
-    width: auto;
-    display: block;
-    margin: auto;
-    padding-top: 10px;
-}
 
 
-.portfolio {
-    position: relative;
-    width: 60px;
-    margin: auto;
-}
-
-.portfolio h1 {
-    margin: 10px;
-    font-family: Signika Negative,sans-serif;
-    text-align: center;
-    display: block;
-}
-
-.portfolio img {
-    height: auto;
-    width: auto;
-    margin: auto;
-    display: block;
-}
-
-.contatUs {
-    margin-top: 20px;
-    position: relative;
-}
-
-footer {
-    height: 150px;
-    margin-top: 20px;
-    width: 100px;
-    text-align: center;
-    padding: 10px;
-    position: relative;
-}
 
 
-.footer ul li {
-    display: inline-block;
-    margin: 5px;
 
-}
 
-.toogleDesignLogo {
-    display: none;
-    text-align: center;
-    font-family: Signika Negative,sans-serif;
-}
 
-.toogleDevLogo {
-    display: none;
-    text-align: center;
-    font-family: Signika Negative,sans-serif;
-}
 
-.toogleProductLogo {
-    display: none;
-    text-align: center;
-    font-family: Signika Negative,sans-serif;
-}
 
-#inlineDesign {
-    text-align: center;
-}
 
-#inlineDev {
-    text-align: center;
-}
 
-#inlineProduct {
-    text-align: center;
-}
-#inline {
-    text-align: center;
-}
 
-#headerimg2 {
-    padding-top: 15%;
-}
 
-h1 {
-    font-weight: bold;
-    font-family: Signika Negative,sans-serif;
-}
 
-.submit {
-    float: left;
-    border-radius: 2px;
-}
 
-#work1Text {
-    display: none;
-    text-align: center;
-    font-family: Signika Negative,sans-serif;
-    border-radius: 5px;
-}
+
+
+
